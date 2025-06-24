@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#loader{
+    background-color: black;
+    color: white;
+    height: 100vh;
+    padding: 20vh 10vw;
+    
+}
+#line h1{
+    font-size:70px;
+    line-height: 100px;
+}
